@@ -20,6 +20,8 @@
 - VR Hardware
 
 ### Projects
-- Currently I do not have any projects...
+- Stormworks Active Protection System
+- Serial implementation for EyeTrackVR
+- Valve index mount for EyeTrackVR
 
 #### You can find me at my discord: Seaweed#4353.
